@@ -1,0 +1,3 @@
+[submodule "skimo"]
+	path = skimo
+	url = https://github.com/clvrai/skimo.git
