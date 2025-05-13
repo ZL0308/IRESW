@@ -1,5 +1,6 @@
 # IRESW
 Intrinsic Reward-Driven Exploration with Skill-Based World Models
+![](https://github.com/ZL0308/IRESW/blob/main/video/workflow.png)
 
 ## Installation
 See instruction [here](https://github.com/clvrai/skimo?tab=readme-ov-file#installation)
