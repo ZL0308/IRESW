@@ -6,10 +6,11 @@ name: iresw
 
 phase: pretrain
 
-# SkiMo
+# Iresw
 n_skill: 10
 skill_horizon: 10
 skill_dim: 10
+action_dim: 10
 
 # Pretraining
 pretrain:
@@ -75,7 +76,7 @@ max_divergence: 100
 
 # CEM
 use_cem: true
-cem_iter: 6
+cem_iter: 5
 num_elites: 64
 num_sample_traj: 512
 num_policy_traj: 25
@@ -97,9 +98,6 @@ lstm: true
 lstm_units: 128
 
 encoder:
-  # image_shape: [64, 64, 3]
-  # kernel_size: [4, 4, 4, 4]
-  # stride: [2, 2, 2, 2]
   image_shape: [32, 32, 3]
   kernel_size: [4, 4, 4, 2]
   stride: [2, 2, 2, 1]
@@ -110,9 +108,6 @@ encoder:
   dense_act: elu
 
 decoder:
-  # image_shape: [64, 64, 3]
-  # kernel_size: [5, 5, 6, 6]
-  # stride: [2, 2, 2, 2]
   image_shape: [32, 32, 3]
   kernel_size: [5, 5, 6, 3]
   stride: [2, 2, 2, 1]
