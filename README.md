@@ -12,6 +12,5 @@ See instruction [here](https://github.com/clvrai/skimo?tab=readme-ov-file#instal
 * `run.py`: launches the model
 * `skill_tranier.py`: trainer for the agent
 
-## Workflow 
-<video src="https://github.com/ZL0308/IRESW/blob/main/video/workflow.mp4" controls></video>
-
+## References
+This code is based on skimo [https://github.com/clvrai/skimo/tree/main](https://github.com/clvrai/skimo/tree/main) 
