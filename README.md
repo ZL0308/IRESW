@@ -1,5 +1,9 @@
 # IRESW
 Intrinsic Reward-Driven Exploration with Skill-Based World Models
+
+# Workflow
+<img src="https://github.com/ZL0308/IRESW/blob/main/video/workflow.png" alt="workflow" width="400" height="150"/>
+
 ![](https://github.com/ZL0308/IRESW/blob/main/video/workflow.png)
 
 ## Installation
