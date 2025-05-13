@@ -2,9 +2,8 @@
 Intrinsic Reward-Driven Exploration with Skill-Based World Models
 
 # Workflow
-<img src="https://github.com/ZL0308/IRESW/blob/main/video/workflow.png" alt="workflow" width="400" height="150"/>
+<img src="https://github.com/ZL0308/IRESW/blob/main/video/workflow.png" alt="workflow" width="500" height="300"/>
 
-![](https://github.com/ZL0308/IRESW/blob/main/video/workflow.png)
 
 ## Installation
 See instruction [here](https://github.com/clvrai/skimo?tab=readme-ov-file#installation)
